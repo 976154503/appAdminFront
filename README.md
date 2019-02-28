@@ -24,13 +24,15 @@ vue2 + vuex + vue-router + webpack + es6/7 + bootstrap + jquery
 ├── css
 ├── ├── common
 ├── ├── ├── base.css
+├── ├── ├── bootstrap.min.css
 ├── ├── page
 ├── ├── ├── index.css
+├── fonts
 ├── images
-├── lib
+├── dist
 ├── ├── js
 ├── ├── ├── jquery.min.js
-├── ├── ├── alert.js
+├── ├── ├── bootstrap.min.js
 ├── js
 ├── ├── index.js
 ├── favicon.ico
