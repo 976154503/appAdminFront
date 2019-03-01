@@ -1,0 +1,101 @@
+@charset "UTF-8";
+.bg-grey {
+    background-color: #F4F4F4;
+}
+
+.bg-red {
+    background-color: #fd3b3b;
+}
+
+.bg-blue {
+    background-color: #0084FF;
+}
+
+.p-0 {
+    padding: 0!important;
+}
+
+.pt-15 {
+    padding: 15px 0;
+}
+
+.pt-10 {
+    padding: 10px 0;
+}
+
+.pt15 {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.pb20 {
+    padding-bottom: 20px;
+}
+
+.pr5 {
+    padding-right: 5px;
+}
+
+.pr0 {
+    padding-right: 0;
+}
+
+.pr15 {
+    padding: 0 15px 0 0;
+}
+
+.font-size-default {
+    font-size: 12px;
+}
+
+.logo-name {
+    font-size: 18px;
+}
+
+.default-link ,.d-block {
+    display: block;
+}
+
+.default-link {
+    width: 74px;
+}
+
+.logo ,.logo img ,.nav {
+    width: 64px;
+}
+
+.default-link {
+    line-height: 32px;
+}
+
+.logo-name ,.nav {
+    line-height: 64px;
+}
+
+.logo ,.logo img ,.logo-name ,.nav {
+    height: 64px;
+}
+
+.default-link ,.logo-name {
+    color: #000;
+}
+
+.search {
+    color: #fff;
+}
+
+.logo img {
+    border-radius: 50%;
+}
+
+.logo-name {
+    font-weight: bold;
+}
+
+.border-radius-0 {
+    border-radius: 0!important;
+}
+
+.ele-relative {
+    position: relative;
+} 

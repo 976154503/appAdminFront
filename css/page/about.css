@@ -1,0 +1,62 @@
+.about-banner img {
+    width: 100%;
+}
+
+.about-card {
+    background: url(../../images/about_02.jpg);
+    background-repeat: no-repeat;
+    box-shadow: 0 4px 8px 0 rgba(28,31,33,.1);
+    border-radius: 12px;
+    top: -60px;
+    padding: 0 0 30px 0;
+}
+
+.about-focus {
+    padding: 64px 0 76px 120px;
+}
+
+.about-card {
+    background-color: #fff;
+}
+
+.business-manage {
+    font-size: 40px;
+    color: #000;
+    line-height: 60px;
+    font-weight: 700;
+}
+
+.business-desc {
+    margin: 20px 0 20px 0;
+    font-size: 16px;
+    color: #1c1f21;
+    line-height: 24px;
+    width: 427px;
+}
+
+.about-product {
+    margin: 20px 0;
+}
+
+.about-product img {
+    display: block;
+    width: 64px;
+    height: 64px;
+    margin: 10px auto;
+}
+
+p.product-title {
+    font-size: 16px;
+    color: #1c1f21;
+    line-height: 24px;
+    margin-top: 12px;
+    font-weight: 700;
+}
+
+p.product-desc {
+    font-size: 12px;
+    color: #545c63;
+    text-align: center;
+    line-height: 18px;
+    margin-top: 7px;
+}
