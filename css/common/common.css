@@ -8,7 +8,7 @@
 }
 
 .bg-blue {
-    background-color: #0084FF;
+    background-color: #46cef7;
 }
 
 .p-0 {
@@ -38,6 +38,10 @@
 
 .pr0 {
     padding-right: 0;
+}
+
+.pl45 {
+    padding-left: 45px;
 }
 
 .pr15 {
@@ -99,3 +103,28 @@
 .ele-relative {
     position: relative;
 } 
+
+.ele-absolute {
+    position: absolute;
+} 
+
+/*card*/
+
+.card {
+    top: -60px;
+    box-shadow: 0 4px 8px 0 rgba(28,31,33,.1);
+    border-radius: 12px;
+    background-color: #fff;
+}
+
+/*popup*/
+
+.popup {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, .4);
+    z-index: 1;
+}

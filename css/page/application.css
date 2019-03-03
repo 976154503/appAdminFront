@@ -1,0 +1,13 @@
+.app-images {
+    width: 1280px;
+    margin: 0 auto;
+}
+
+.app-images img {
+    display: block;
+    width: 100%;
+}
+
+.app-desc {
+    
+}

@@ -1,0 +1,16 @@
+.focus-article img {
+    width: 100%;
+    margin: 20px 0 20px 0;
+}
+
+.focus-article h3 {
+    font-size: 16px;
+    line-height: 28px;
+    margin: 20px 0 50px;
+    color: #2FA691;
+}
+.focus-article p {
+    font-size: 14px;
+    line-height: 26px;
+    margin: 0 0 20px;
+}
